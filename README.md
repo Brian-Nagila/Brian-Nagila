@@ -18,8 +18,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrianNagila&color=38BDF8&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/BrianNagila?style=flat-square&color=38BDF8&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Brian-Nagila&color=38BDF8&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Brian-Nagila?style=flat-square&color=38BDF8&label=Followers)
 
 </div>
 
@@ -28,7 +28,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class BrianNagila:
+class Brian-Nagila:
     def __init__(self):
         self.name        = "Brian Nagila"
         self.role        = "Data Scientist | Human Services Background"
@@ -99,14 +99,14 @@ class BrianNagila:
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrianNagila&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrianNagila&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brian-Nagila&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brian-Nagila&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrianNagila&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Brian-Nagila&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
