@@ -32,7 +32,7 @@ class Brian-Nagila:
     def __init__(self):
         self.name        = "Brian Nagila"
         self.role        = "Data Scientist | Human Services Background"
-        self.education   = "B.Sc. Data Science (Graduate)"
+        self.education   = "MS. Data Analytics - Data Science"
         self.background  = "Human Services & Case Management"
         self.mission     = "Turning data into decisions that help people achieve self-sufficiency"
 
