@@ -54,7 +54,7 @@ class Brian-Nagila:
 
 > *I combine a background in **human services and case management** with the analytical rigor of **data science** — building insights that help individuals, families, and institutions thrive.*
 
-- 🧑‍🤝‍🧑 Years of experience helping individuals and families access education, employment, and community resources to achieve self-sufficiency
+- 🧑‍🤝‍🧑 7 years of experience helping individuals and families access education, employment, and community resources to achieve self-sufficiency
 - 📈 Passionate about using data to inform program improvements and measure real-world outcomes
 - 🏥 Experienced in analyzing operational data (e.g., healthcare wait times) to improve service delivery
 - 🔐 Strong grounding in data governance, accuracy, and privacy compliance across State and Federal systems
